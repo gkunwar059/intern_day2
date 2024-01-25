@@ -2,7 +2,6 @@
 # Sample List : (8, 2, 3, -1, 7) 
 # Expected Output : -336 
 
-
 sample_list=[8, 2, 3, -1, 7]
 
 def mul_num(sample_list:list):
